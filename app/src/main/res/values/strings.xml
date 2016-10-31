@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert">Convert</string>
+    <string name="inches">Inches</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="inches_to_centimeter_conversion">Inches to Centimeter Conversion</string>
+    <string name="centimeter_to_inches_conversion">Centimeter to Inches Conversion</string>
+    <string name="buttoninches">Inches</string>
+</resources>
